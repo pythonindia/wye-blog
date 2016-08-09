@@ -1,2 +1,5 @@
 [project]
 name = delta
+
+[servers.ghpages]
+target = ghpages://pythonondia/wye-blog
