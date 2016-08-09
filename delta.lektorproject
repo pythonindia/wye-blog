@@ -2,4 +2,4 @@
 name = delta
 
 [servers.ghpages]
-target = ghpages+https://pythonondia/wye-blog
+target = ghpages+https://pythonindia/wye-blog
