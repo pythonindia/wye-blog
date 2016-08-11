@@ -35,11 +35,8 @@ For formatting and other options, check existing files. For more information, yo
 
 ## Deployment
 
-To deploy `master` brach to `gh-pages` just run this command from root directory.
+Everything you commit to master branch will be automatically deployed via travis.
 
-```sh
-lektor deploy --username <username> --password <password>
-```
 
 ## Help
 
