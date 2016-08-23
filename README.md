@@ -35,7 +35,7 @@ For formatting and other options, check existing files. For more information, yo
 
 ## Deployment
 
-Everything you commit to master branch will be automatically deployed via travis.
+Commit your code to some branch other than master, submit a PR and then merge it. Everything you commit to master like this will be automatically deployed via travis.
 
 
 ## Help
