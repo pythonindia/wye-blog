@@ -15,7 +15,7 @@
         <link rel="apple-touch-icon" sizes="72x72" href="img/apple-touch-icon-72x72.png">
         <link rel="apple-touch-icon" sizes="114x114" href="img/apple-touch-icon-114x114.png">
 
-        <link rel="stylesheet" type="text/css"  href="{{ '/static/css/clean-blog.min.css'|url }}">
+        <link rel="stylesheet" type="text/css"  href="{{ '/static/css/style.css'|url }}">
 
         <!-- Bootstrap -->
         <link rel="stylesheet" type="text/css"  href="{{ '/static/css/bootstrap.min.css'|url }}">
@@ -25,27 +25,13 @@
         <link href='https://fonts.googleapis.com/css?family=Lato:100,300,400,700,900,100italic,300italic,400italic,700italic,900italic' rel='stylesheet' type='text/css'>
         <link href='https://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,700,300,600,800,400' rel='stylesheet' type='text/css'>
 
-        <!-- custom css -->
-        <style type="text/css">
-         body {
-             padding-top: 70px;
-         }
 
-         /* body
-            {
-            background: #FFEBCC;
-            color:#000000;
-            }
-          */    </style>
-
-        <!-- custom css block -->
         {% block css %}
-
         {% endblock %}
 
     </head>
 
-    <body>
+    <body class="container-fluid">
         <!-- Fixed navbar -->
         <nav class="navbar navbar-default navbar-fixed-top">
             <div class="container">
@@ -63,47 +49,37 @@
             {% endblock %}
         </div>
 
-
-
         <!-- Footer -->
-        <footer>
-            <div class="container navbar-fixed-bottom">
-                <div class="row">
-                    <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
-                        <hr>
-                        <ul class="list-inline text-center">
-                            <li>
-                                <a href="http://lists.pssi.org.in/cgi-bin/mailman/listinfo/pythonexpress">
-                                    <span class="fa-stack fa-lg">
-                                        <i class="fa fa-circle fa-stack-2x"></i>
-                                        <i class="fa fa-envelope fa-stack-1x fa-inverse"></i>
-                                    </span>
-                                </a>
-                            </li>
-
-                            <li>
-                                <a href="https://github.com/pythonindia/wye">
-                                    <span class="fa-stack fa-lg">
-                                        <i class="fa fa-circle fa-stack-2x"></i>
-                                        <i class="fa fa-github fa-stack-1x fa-inverse"></i>
-                                    </span>
-                                </a>
-                            </li>
-                            <li>
-                                <a href="https://twitter.com/pythonexpress/">
-                                    <span class="fa-stack fa-lg">
-                                        <i class="fa fa-circle fa-stack-2x"></i>
-                                        <i class="fa fa-twitter fa-stack-1x fa-inverse"></i>
-                                    </span>
-                                </a>
-                            </li>
-                        </ul>
-                        <p class="copyright text-muted">Copyright &copy; Python Express</p>
-                    </div>
-                </div>
-            </div>
-        </footer>
-
+        <div class="row footer text-center">
+            <hr>
+            <ul class="list-inline">
+                <li>
+                    <a href="http://lists.pssi.org.in/cgi-bin/mailman/listinfo/pythonexpress">
+                        <span class="fa-stack fa-lg">
+                            <i class="fa fa-circle fa-stack-2x"></i>
+                            <i class="fa fa-envelope fa-stack-1x fa-inverse"></i>
+                        </span>
+                    </a>
+                </li>
+                <li>
+                    <a href="https://github.com/pythonindia/wye">
+                        <span class="fa-stack fa-lg">
+                            <i class="fa fa-circle fa-stack-2x"></i>
+                            <i class="fa fa-github fa-stack-1x fa-inverse"></i>
+                        </span>
+                    </a>
+                </li>
+                <li>
+                    <a href="https://twitter.com/pythonexpress/">
+                        <span class="fa-stack fa-lg">
+                            <i class="fa fa-circle fa-stack-2x"></i>
+                            <i class="fa fa-twitter fa-stack-1x fa-inverse"></i>
+                        </span>
+                    </a>
+                </li>
+            </ul>
+            <p class="">Copyright &copy; Python Express</p>
+        </div>
 
         <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
         <script type="text/javascript" src="{{ '/static/js/jquery-1.12.3.min.js'|url }}"></script>
@@ -112,11 +88,11 @@
 
 
         <script>
-
         $(document).ready(function() {
             $('a[href="' + this.location.pathname + '"]').parent().addClass('active');
         });
         </script>
+
         <!-- custom js block -->
         {% block js %}
         {% endblock %}
