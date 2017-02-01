@@ -35,7 +35,17 @@ For formatting and other options, check existing files. For more information, yo
 
 ## Deployment
 
-Commit your code to some branch other than master, submit a PR and then merge it. Everything you commit to master like this will be automatically deployed via travis.
+Any commit you make to master brach on github gets deployed automatically.
+
+### Manual Deployment
+
+Incase auto deployment fails or if you want to deploy from your system, follow these steps.
+
+- Make sure you have setup your sytem as mentioned in setup section
+
+- You need to have write permission to the repo as you have to commit on `gh-pages` branch.
+
+- Run `lektor deploy ghpages` from home directory and it will get deployed.
 
 
 ## Help
