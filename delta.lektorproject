@@ -1,5 +1,9 @@
 [project]
 name = delta
+url = http://blog.pythonexpress.in/
 
 [servers.ghpages]
 target = ghpages+https://pythonindia/wye-blog?cname=blog.pythonexpress.in
+
+[packages]
+lektor-atom = 0.2
