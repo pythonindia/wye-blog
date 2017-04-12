@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title type="text">PythonExpress Blog</title>
+  <id>urn:uuid:28714e83-3f3f-3981-96cf-570508517d2f</id>
+  <updated>2017-01-30T00:00:00Z</updated>
+  <link href="http://blog.pythonexpress.in/posts/" />
+  <link href="http://blog.pythonexpress.in/posts/feed.xml" rel="self" />
+  <author>
+    <name></name>
+  </author>
+  <generator uri="https://github.com/ajdavis/lektor-atom" version="0.2">Lektor Atom Plugin</generator>
+  <entry xml:base="http://blog.pythonexpress.in/posts/a-look-back-at-2016/">
+    <title type="text">Looking back at 2016</title>
+    <id>urn:uuid:409a1d98-40b5-3f1f-9f9f-f752926c37ee</id>
+    <updated>2017-01-30T00:00:00Z</updated>
+    <link href="http://blog.pythonexpress.in/posts/a-look-back-at-2016/" />
+    <author>
+      <name>Vijay kumar</name>
+    </author>
+    <content type="html">&lt;p&gt;A belated happy new year folks! Thought we'd start this year by taking a quick look at what all we achieved over the last year - one of the most active years for the Indian Python Community.&lt;/p&gt;
+&lt;p&gt;With our initiative, we were able to connect more than 100 colleges, 10,000+ students and several Pythonistas!&lt;/p&gt;
+&lt;p&gt;PythonExpress has helped to spread the love of Python in a unique way by bringing in Python enthusiasts together from various organizations, communities and different backgrounds of our society. We can proudly announce that we were able to organize 25+ female-only workshops as part of the Women in STEM initiative by IIT Bombay as well.&lt;/p&gt;
+&lt;p&gt;During the initial years of PythonExpress/PythonMonth, we mostly used to conduct Python101 workshops. It is now quite heartwarming to see how our community has grown over the years. The point being, just Python101 workshops are not sufficient any longer; upon popular demand, we've conducted workshops on Advanced Python, Django, Machine Learning and even Scipy.&lt;/p&gt;
+&lt;p&gt;A few stats for 2016:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;Workshops requested: 120
+Workshops conducted: 97
+Volunteers(Tutor): 71 unique volunteers
+Students: 10,000 Plus
+Cities: 40
+States: 18
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Kudos to all the instructors, colleges, students, coordinators, volunteers, organizations and well-wishers who made this possible! Let's all make it our new year's resolution to contribute to and help grow the Python community of India even further. If you belong to one of the many FOSS communities around, do join us and help us reach even more parts of our country.&lt;/p&gt;
+&lt;p&gt;Spread the love! Spread the word! Contribute and bring in more contributors!&lt;/p&gt;
+&lt;p&gt;Here is looking forward to a wonderful 2017 with full of hope and excitement!&lt;/p&gt;
+</content>
+  </entry>
+  <entry xml:base="http://blog.pythonexpress.in/posts/grand-show/">
+    <title type="text">Grand Show</title>
+    <id>urn:uuid:c0c1b00c-840c-3401-a1df-fe943ba6864c</id>
+    <updated>2016-09-12T00:00:00Z</updated>
+    <link href="http://blog.pythonexpress.in/posts/grand-show/" />
+    <author>
+      <name>R.Kracekumar</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;blockquote class=&quot;twitter-tweet&quot; data-lang=&quot;en&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;Awesome &lt;a href=&quot;https://twitter.com/pythonexpress&quot;&gt;@pythonexpress&lt;/a&gt; poster made by students. Thank you CSMSS student for awesome response&lt;a href=&quot;https://twitter.com/pyconindia&quot;&gt;@pyconindia&lt;/a&gt; &lt;a href=&quot;https://twitter.com/ciypro&quot;&gt;@ciypro&lt;/a&gt; &lt;a href=&quot;https://t.co/Rmh7isoDmv&quot;&gt;pic.twitter.com/Rmh7isoDmv&lt;/a&gt;&lt;/p&gt;&amp;mdash; suraj narwade (@red_suraj) &lt;a href=&quot;https://twitter.com/red_suraj/status/774630296947793920&quot;&gt;September 10, 2016&lt;/a&gt;&lt;/blockquote&gt;&lt;/p&gt;
+&lt;script async src=&quot;//platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;&lt;p&gt;Python Month started on August, 10th and ended on September, 10th, completing 56 workshops across India covering 11 states!&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;city_wise_workshop_count.png&quot;&gt;&lt;/p&gt;
+&lt;p&gt;
+The workshops are few hours, whole day sessions. The untiring volunteers conducted workshops in twenty cities. The Bengaluru topped the chart by hosting 15 workshops, followed by Delhi with nine workshops. The smaller cities like Raipur hosted four workshops.
+&lt;/p&gt;&lt;p&gt;&lt;img src=&quot; pe_participants.jpg&quot;  height='500px' width='700px'&gt;&lt;/p&gt;
+&lt;p&gt;Nearly 3500 students participated in the workshops!&lt;/p&gt;&lt;p&gt;&lt;img src=&quot;city_wise_participants.png&quot;&gt;&lt;/p&gt;
+&lt;p&gt;We thank all the volunteers for their assistance, support, promotion.
+The above achievement is only possible with the strong volunteer support at various level. We welcome all sort of volunteering efforts.&lt;/p&gt;
+&lt;p&gt;Big kudos to everyone of who were part of the process; who spread awareness; who connected the colleges, tutors, software development team and non-teaching volunteers.&lt;/p&gt;
+&lt;p&gt;&lt;blockquote class=&quot;twitter-tweet&quot; data-lang=&quot;en&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;my first blog. &lt;a href=&quot;https://t.co/qzRATyMo5h&quot;&gt;https://t.co/qzRATyMo5h&lt;/a&gt;&lt;br&gt;thanks &lt;a href=&quot;https://twitter.com/PyDelhi&quot;&gt;@PyDelhi&lt;/a&gt; &lt;a href=&quot;https://twitter.com/pyconindia&quot;&gt;@pyconindia&lt;/a&gt; &lt;a href=&quot;https://twitter.com/pythonexpress&quot;&gt;@pythonexpress&lt;/a&gt; &lt;a href=&quot;https://t.co/QbGhbECDkq&quot;&gt;pic.twitter.com/QbGhbECDkq&lt;/a&gt;&lt;/p&gt;&amp;mdash; Shashank Aryan (@arlok31) &lt;a href=&quot;https://twitter.com/arlok31/status/769975387950579717&quot;&gt;August 28, 2016&lt;/a&gt;&lt;/blockquote&gt;&lt;/p&gt;
+&lt;script async src=&quot;//platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;&lt;p&gt;There are 23 upcoming workshops in next one month. Keep the ball rolling!&lt;/p&gt;
+</content>
+  </entry>
+  <entry xml:base="http://blog.pythonexpress.in/posts/crescent-python-month/">
+    <title type="text">Crescent PythonMonth</title>
+    <id>urn:uuid:354eb657-27b7-3b55-b30f-928b7264e940</id>
+    <updated>2016-09-04T00:00:00Z</updated>
+    <link href="http://blog.pythonexpress.in/posts/crescent-python-month/" />
+    <author>
+      <name>R.Kracekumar</name>
+    </author>
+    <content type="html">&lt;quote&gt;“Those who know, do. Those that understand, teach.” - Aristotle&lt;/quote&gt;&lt;p&gt;PythonMonth kicked off on August 10th in grand style with 22 confirmed workshops! As of August 30th, volunteers have completed 23 workshops in 20 days. The workshops were a mix of seminars and hands-on classes.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;rvce_group_photo.jpg&quot; height='400px' width='700px'&gt;&lt;/p&gt;
+&lt;p&gt;The majority workshops were a one-day session, and very few workshops stretched two days. 1425 participated in 23 workshops; largest workshop had 150 students, and smallest workshop had ten students. That's a lot of volunteering effort!&lt;/p&gt;
+&lt;p&gt;Bangalore constituted 54.5% of the workshops, followed by Delhi 18.2% and Noida 13.6%.
+&lt;img src=&quot;workshop_by_city.png&quot;&gt;&lt;/p&gt;
+&lt;p&gt;13 workshops took place on Saturday and three workshops on Sunday. 69.5% of the workshops were on weekends.
+&lt;img src=&quot;workshop_by_days.png&quot;&gt;&lt;/p&gt;
+&lt;p&gt;The highest was on Aug 27, 2016, with five workshops.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;workshop_dates.png&quot;&gt;&lt;/p&gt;
+&lt;p&gt;19 primary tutors with session volunteers assistance conducted workshops in various institutes. Below are the names.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Akshay Arora&lt;/li&gt;
+&lt;li&gt;AMiT Kumar&lt;/li&gt;
+&lt;li&gt;Anand Reddy&lt;/li&gt;
+&lt;li&gt;Annapoornima Koppad&lt;/li&gt;
+&lt;li&gt;Anuvrat Parashar&lt;/li&gt;
+&lt;li&gt;Farhaan Bukhsh&lt;/li&gt;
+&lt;li&gt;Jagadish&lt;/li&gt;
+&lt;li&gt;Jaidev Deshpande&lt;/li&gt;
+&lt;li&gt;Janki Chhatbar&lt;/li&gt;
+&lt;li&gt;Jaysinh Shukla&lt;/li&gt;
+&lt;li&gt;Kracekumar Ramaraj&lt;/li&gt;
+&lt;li&gt;Kushal Das&lt;/li&gt;
+&lt;li&gt;Neeraj Kumar&lt;/li&gt;
+&lt;li&gt;Nidhi Lal&lt;/li&gt;
+&lt;li&gt;Praveen Shirali&lt;/li&gt;
+&lt;li&gt;RAJIV JHA&lt;/li&gt;
+&lt;li&gt;Ramanath Muthiah&lt;/li&gt;
+&lt;li&gt;Sasidhar Donaparthi&lt;/li&gt;
+&lt;li&gt;Shantanu oak&lt;/li&gt;
+&lt;li&gt;Sivasubramaniam Arunachalam&lt;/li&gt;
+&lt;li&gt;Suman Debnath&lt;/li&gt;
+&lt;li&gt;Sushrut Deshpande&lt;/li&gt;
+&lt;li&gt;Vidyadhar Sharma&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;&lt;a href=&quot;https://cosmologist10.wordpress.com/2016/08/29/python-monthvolunteering-experience-under-python-express/&quot;&gt;Here is a blog post from a tutor about his experience.&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;The above achievement is only possible with the strong volunteer support at various level. We welcome all sort of volunteering efforts. Remember PythonMonth ends on September 10th; a lot of workshops are already confirmed and if these interests you help us organize or conduct a workshop in listed &lt;a href=&quot;https://pythonexpress.in/workshops_upcoming/&quot;&gt;college&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Big kudos to everyone of who were part of the process; who spread awareness; who connected the colleges, tutors, software development team and non-teaching volunteers. If I have missed your name, apologies and please send a PR.&lt;/p&gt;
+&lt;p&gt;Keep the ball moving :-)
+Contact GitHub API Training Shop Blog About&lt;/p&gt;
+</content>
+  </entry>
+  <entry xml:base="http://blog.pythonexpress.in/posts/python-month-has-arrived/">
+    <title type="text">PythonMonth has arrived, in style!</title>
+    <id>urn:uuid:18aa0040-12b2-32d9-abd5-71150831aa69</id>
+    <updated>2016-08-11T00:00:00Z</updated>
+    <link href="http://blog.pythonexpress.in/posts/python-month-has-arrived/" />
+    <author>
+      <name>A Python</name>
+    </author>
+    <content type="html">&lt;p&gt;Every year PyCon India receives an overwhelming number of requests for introductory python workshops. While the conference itself caters to a wide demographic, the content might seem a bit daunting to beginners. As a solution for this contention, and ensure that every attendee has something tangible to take away from the conference, the community came up with the idea of celebrating PythonMonth!&lt;/p&gt;
+&lt;p&gt;Indian Python community celebrates the month before PyCon India as PythonMonth. During this period, introductory workshops on Python, Django, Machine Learning, etc, are conducted by volunteers in various educational institutions and Local Python User Group Meetups.&lt;/p&gt;
+&lt;p&gt;Following the success of PythonMonth for the last three years, Team Pycon India 2016 has come together for yet another PythonMonth starting from the 10 of August 2016. There is already a tremendous reponse!&lt;/p&gt;
+&lt;p&gt;As of writing this post, there are 30 requests for workshops, out of which 22 are finalized, and eight are deliberating the date.&lt;/p&gt;
+&lt;p&gt;If you would like to help out as a trainer or are interested in organizing a workshop in your organization, register on &lt;a href=&quot;http://pythonexpress.in&quot;&gt;http://pythonexpress.in&lt;/a&gt;. The web app takes care of the logistics for these workshops.&lt;/p&gt;
+&lt;p&gt;Fun Fact: PythonExpress is an open source Django application built and maintained by the community and would be more than happy to receive some Pull Requests. Looking to contribute to open source? Checkout our repo at &lt;a href=&quot;https://github.com/pythonindia/wye&quot;&gt;https://github.com/pythonindia/wye&lt;/a&gt;.&lt;/p&gt;
+</content>
+  </entry>
+  <entry xml:base="http://blog.pythonexpress.in/posts/support-request/">
+    <title type="text">Request to support PythonExpress Project</title>
+    <id>urn:uuid:871017d4-7942-3f68-ba9c-9510989059d0</id>
+    <updated>2016-03-06T00:00:00Z</updated>
+    <link href="http://blog.pythonexpress.in/posts/support-request/" />
+    <author>
+      <name>Vijay Bang</name>
+    </author>
+    <content type="html">&lt;p&gt;&quot;Alone we can do so little; together we can do so much.&quot; - Helen Keller&lt;/p&gt;
+&lt;p&gt;We are quite proud to announce that it has been 3 years since we started the PythonExpress initiative and we've been able to run it successfully without too much hassle.&lt;/p&gt;
+&lt;p&gt;Our success story; we have conducted 200+ workshops and have reached out to more than 10,000 students to help them learn Python. Completely free of cost.&lt;/p&gt;
+&lt;p&gt;PythonExpress has grown to the level of having more than 150 colleges and 600 tutors registered with us.&lt;/p&gt;
+&lt;p&gt;However, just conducting Python 101 workshops does not suffice. We really have to import antigravity and fly!&lt;/p&gt;
+&lt;p&gt;Sometimes, to get a college to organize a workshop during weekends and convincing the professors to learn a new language and adapt to a different teaching style is not that easy. Not all colleges support this initiative and among the few who come forward to support, we do face financial problems with logistics, tutor accommodation, etc.. Problems get even more complicated if the college is in a remote location as well.&lt;/p&gt;
+&lt;p&gt;It would be a tremendous leap forward if we could play a role in enabling these colleges to host these workshops despite their financial inability. The point being - we have to support them.&lt;/p&gt;
+&lt;p&gt;Also, inevitably as a part of our growth, we need to keep reaching out to colleges and keep spreading the word. Just getting the word out to as many colleges as possible in itself is a solid step forward.&lt;/p&gt;
+&lt;p&gt;Having said that, how can you help us help them? Apart from informally chatting with your buddies and letting others know about us, we are specifically looking for support in two ways:&lt;/p&gt;
+&lt;p&gt;Sponsors - Organizations/Individuals who support us with funding.&lt;/p&gt;
+&lt;p&gt;Partners - Organizations to help us connect to colleges and institutions.&lt;/p&gt;
+&lt;p&gt;Interested? Drop us a line at contact [at] pythonexpress [dot] in. Let's chat.&lt;/p&gt;
+&lt;p&gt;Before signing off, revisiting the quote at the beginning of this conversation - we're in this together. So let's do this!&lt;/p&gt;
+</content>
+  </entry>
+</feed>
