@@ -22,7 +22,7 @@
 &lt;p&gt;PythonMonth is organized and run by volunteers.&lt;/p&gt;
 &lt;p&gt;This is the fifth consecutive year, team PythonExpress has come together to organize this event. We are celebrating PythonMonth this year from 8th of September till 8th of October, 2017.&lt;/p&gt;
 &lt;p&gt;Every year, there has been a consistent increase in the number of workshops conducted and the support from colleges, last year we received 70+ requests. To accomodate the increase in workshop requests, we would require a lot of volunteers. With more number of volunteers willing to help this year, we are confident we would be able to accomodate all the workshop requests from different region.&lt;/p&gt;
-&lt;p&gt;Interested to join hand with PythonExpress? Here is how you can..&lt;/p&gt;
+&lt;p&gt;Interested to join hand with PythonExpress? Here is how you can&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;Python programmer: Volunteer to conduct workshop in your city.&lt;/li&gt;
 &lt;li&gt;College Professor or student: Help connect your college to PythonExpress and request for workshops.&lt;/li&gt;
@@ -141,6 +141,55 @@ Big kudos to everyone of who were part of the process; who spread awareness; who
 &lt;p&gt;Big kudos to everyone of who were part of the process; who spread awareness; who connected the colleges, tutors, software development team and non-teaching volunteers. If I have missed your name, apologies and please send a PR.&lt;/p&gt;
 &lt;p&gt;Keep the ball moving :-)
 Contact GitHub API Training Shop Blog About&lt;/p&gt;
+</content>
+  </entry>
+  <entry xml:base="http://blog.pythonexpress.in/posts/code-of-conduct/">
+    <title type="text">Code Of Conduct</title>
+    <id>urn:uuid:fb0bcc78-e8c9-388e-8df5-33a708579f61</id>
+    <updated>2016-08-20T00:00:00Z</updated>
+    <link href="http://blog.pythonexpress.in/posts/code-of-conduct/" />
+    <author>
+      <name></name>
+    </author>
+    <content type="html">&lt;p&gt;PythonExpress is an initiative and ongoing effort by volunteers. It aims to create an  create an avenue for learning and exploring the Python programming language and community by acting as a bridge between organizations interested in hosting a workshop, students who want to learn, and experienced Python programmers who are interested to teach.&lt;/p&gt;
+&lt;p&gt;We value volunteers and attendee of every workshop to have an enjoyable and rewarding experience. Accordingly, every attendee of the workshop is expected to show respect and courtesy to every other attendee throughout the workshop.&lt;/p&gt;
+&lt;p&gt;To make clear what is expected, all attendees, speakers, organizers and volunteers of PythonExpress workshop are required to conform to the following Code of Conduct. Organizers will enforce this code throughout the event.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Short Version&lt;/b&gt; &lt;br&gt;
+PythonExpress team is dedicated to providing a harassment-free workshop experience for everyone, regardless of age, gender, sexual orientation, physical appearance, disability, race, religion or employment. We don't tolerate harassment of attendees in any form.&lt;/p&gt;
+&lt;p&gt;All communication should be appropriate for an audience, including people from many different backgrounds.&lt;/p&gt;
+&lt;ul&gt;
+    &lt;b&gt;Code For Speakers:&lt;/b&gt;
+    &lt;li&gt;Sexual language or imagery is inappropriate for your talks or slides. Refrain from using sexist, racist or exclusionary language anywhere in your content.&lt;/li&gt;
+&lt;/ul&gt;&lt;ul&gt;
+    &lt;b&gt;Code For Participants:&lt;/b&gt;
+    &lt;li&gt;Be kind and sensitive to the people around you and avoid any kind of offensive behavior. Sexist, racist or any other form of exclusionary or offensive jokes or excessive public swearing are not appropriate at any venue of workshop.
+    &lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;Attendees violating these rules may be asked to leave the Workshop without a refund at the sole discretion of the workshop organizers.&lt;/p&gt;
+&lt;p&gt;Thank you for your consideration and help in making workshop a welcoming, friendly event for all of us.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Long Version&lt;/b&gt; &lt;br&gt;&lt;/p&gt;
+&lt;ul&gt;
+
+&lt;li&gt;PythonExpress team  is dedicated to providing a harassment-free workshop experience for everyone, regardless of age, gender, sexual orientation, physical appearance, disability, race, religion or employment.&lt;/li&gt;
+
+&lt;li&gt;Harassment includes offensive verbal comments related to gender, sexual orientation, disability, physical appearance, body size, race, religion, sexual images in public spaces, deliberate intimidation, stalking, following, harassing photography or recording, sustained disruption of talks or other events, inappropriate physical contact, and unwelcome sexual attention. We have zero tolerance on harassment of workshop participants in any form, including, but not limited to the activities mentioned here.&lt;/li&gt;
+
+
+&lt;li&gt;Participants asked to stop any harassing behavior are expected to comply immediately.&lt;/li&gt;
+
+&lt;li&gt;All communication should be appropriate for an audience, including people from many different backgrounds. Sexual language or imagery is inappropriate for all aspects of the workshop, including talks. Remember that sexist, racist or any other form of exclusionary or offensive jokes or excessive public swearing are not appropriate at any venue of workshop.&lt;/li&gt;
+
+&lt;li&gt;Do not insult or put down attendees or engage in any action that violates the open, welcoming and sharing spirit of the workshop. Be kind and sensitive to the people around you when you are attending the workshop, and avoid any kind of offensive or degrading behavior.&lt;/li&gt;
+
+&lt;li&gt;If a participant engages in behavior that violates this code of conduct, the workshop organizers may take any action they deem appropriate, including warning the offender or expulsion from the workshop with no refund.&lt;/li&gt;
+
+&lt;li&gt; Thank you for helping to make workshop a welcoming, friendly event for all.&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;Contact Information
+If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact a member of workshop staff.&lt;/p&gt;
+&lt;p&gt;workshop staff will be happy to help participants contact venue security or local law enforcement, provide escorts, or otherwise assist those experiencing harassment to feel safe for the duration of the workshop. We value your attendance.&lt;/p&gt;
+&lt;p&gt;License
+This Code of Conduct was forked from PSF Code of Conduct by Python Software Foundation which is under a Creative Commons Attribution 3.0 Unported License.&lt;/p&gt;
+&lt;p&gt;PythonExpress Code of Conduct is licensed under a Creative Commons Attribution 3.0 Unported License.&lt;/p&gt;
+&lt;p&gt;Copyright © 2017 PythonExpress Team.&lt;/p&gt;
 </content>
   </entry>
   <entry xml:base="http://blog.pythonexpress.in/posts/python-month-has-arrived/">
