@@ -2,13 +2,65 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title type="text">PythonExpress Blog</title>
   <id>urn:uuid:0fd3859e-961a-3821-bad9-c0be19effc79</id>
-  <updated>2017-08-20T00:00:00Z</updated>
+  <updated>2018-10-14T00:00:00Z</updated>
   <link href="http://blog.pythonexpress.in/posts/" />
   <link href="http://blog.pythonexpress.in/posts/feed.xml" rel="self" />
   <author>
     <name></name>
   </author>
   <generator uri="https://github.com/ajdavis/lektor-atom" version="0.2">Lektor Atom Plugin</generator>
+  <entry xml:base="http://blog.pythonexpress.in/posts/report-python-month-2018/">
+    <title type="text">Python Month 2018</title>
+    <id>urn:uuid:4027f59b-ef3c-3701-8eaa-f6194d4578ac</id>
+    <updated>2018-10-14T00:00:00Z</updated>
+    <link href="http://blog.pythonexpress.in/posts/report-python-month-2018/" />
+    <author>
+      <name>Vijay Kumar</name>
+    </author>
+    <content type="html">&lt;p&gt;Python Month was hosted between September 8th and October 8th, 2017. We conducted 19 workshops across India covering 8 states!&lt;p&gt;
+
+&lt;p&gt;We received good support from colleges and volunteers who helped with conducting workshops.&lt;/p&gt;&lt;p&gt;Below are the stats for this year:&lt;/p&gt;
+&lt;div&gt;Number of students benefitted: &lt;b&gt;1765&lt;/b&gt;&lt;/div&gt;
+&lt;div&gt;Number of workshops:&lt;/div&gt;&lt;br&gt;
+&lt;div&gt;Section wise&lt;/div&gt;&lt;pre&gt;&lt;code&gt;Python3 101 : 13
+Machine Learning : 4
+Python2 101 : 3
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;&lt;div&gt;City Wise:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;Hyderbad: 8
+Bengaluru: 2
+Guwahati:2
+Delhi: 1
+Gandhinagar: 1
+Ghaziabad: 1
+Kanpur: 1
+Pune: 1
+Chennai: 1
+Sangli: 1
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;&lt;div&gt;Number of workshops dropped due to lack of volunteers: 5&lt;/div&gt;&lt;/p&gt;
+&lt;p&gt;&lt;div&gt;Memories of few workshops: &lt;div&gt;&lt;/p&gt;
+&lt;blockquote class=&quot;twitter-tweet&quot; data-lang=&quot;en&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;
+    &lt;a href=&quot;https://twitter.com/NikhilKathole1/status/916669903792250881&quot;&gt;&lt;/a&gt;
+&lt;/blockquote&gt;&lt;blockquote class=&quot;twitter-tweet&quot; data-lang=&quot;en&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;
+    &lt;a href=&quot;https://twitter.com/suvarnakadam/status/901646936142372866&quot;&gt;&lt;/a&gt;
+&lt;/blockquote&gt;
+&lt;blockquote class=&quot;twitter-tweet&quot; data-lang=&quot;en&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;
+    &lt;a href=&quot;https://twitter.com/hydPython/status/909649082464870400&quot;&gt;&lt;/a&gt;
+&lt;/blockquote&gt;
+&lt;blockquote class=&quot;twitter-tweet&quot; data-lang=&quot;en&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;
+    &lt;a href=&quot;https://twitter.com/Aniketuttam1/status/907932848694296578&quot;&gt;&lt;/a&gt;
+&lt;/blockquote&gt;
+&lt;blockquote class=&quot;twitter-tweet&quot; data-lang=&quot;en&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;
+    &lt;a href=&quot;https://twitter.com/Hammad_Lari/status/907913046374342656&quot;&gt;&lt;/a&gt;
+&lt;/blockquote&gt;
+&lt;blockquote class=&quot;twitter-tweet&quot; data-lang=&quot;en&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;
+    &lt;a href=&quot;https://twitter.com/pythonexpress/status/918735143463825408&quot;&gt;&lt;/a&gt;
+&lt;/blockquote&gt;&lt;blockquote class=&quot;twitter-tweet&quot; data-lang=&quot;en&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;
+    &lt;a href=&quot;https://twitter.com/pythonexpress/status/918734367978962944&quot;&gt;&lt;/a&gt;
+&lt;/blockquote&gt;&lt;p&gt;&lt;script async src=&quot;//platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;&lt;/p&gt;
+&lt;p&gt;The plan was to organize 50+ workshops as part of this event. Since we do not have region based co-ordinators, we could not reach out to many colleges and students.&lt;/p&gt;&lt;p&gt;But on the bright side, we have 16 workshops lined up already and we also have colleges reaching out to us requesting for more workshops. Looking forward to achieve our target!&lt;/p&gt;&lt;p&gt;&lt;b&gt;Thanks to all the organizations, tutors and volunteers who helped to make PythonMonth a success all the time.&lt;/b&gt;&lt;/p&gt;</content>
+  </entry>
   <entry xml:base="http://blog.pythonexpress.in/posts/python-month-2017/">
     <title type="text">Python Month 2017</title>
     <id>urn:uuid:67ffa04d-3d84-314d-ab21-17927e1507a8</id>
